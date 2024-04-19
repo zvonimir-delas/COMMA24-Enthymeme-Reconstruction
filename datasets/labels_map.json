@@ -1,0 +1,22 @@
+{
+    "position to know": 0,
+    "expert opinion": 1,
+    "direct ad hominem": 2,
+    "inconsistent commitment": 3,
+    "popular practice": 4,
+    "popular opinion": 5,
+    "analogy": 6,
+    "precedent": 7,
+    "example": 8,
+    "established rule": 9,
+    "cause to effect": 10,
+    "verbal classification": 11,
+    "slippery slope": 12,
+    "sign": 13,
+    "ignorance": 14,
+    "threat": 15,
+    "waste": 16,
+    "sunk costs": 17,
+    "witness testimony": 18,
+    "best explanation": 19
+}

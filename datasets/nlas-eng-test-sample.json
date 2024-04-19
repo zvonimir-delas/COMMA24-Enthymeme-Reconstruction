@@ -1,0 +1,35 @@
+{
+    "3": {
+        "topic": "Euthanasia",
+        "stance": "against",
+        "argumentation scheme": "expert opinion",
+        "argument": "{\n  \"major premise\": \"Dr. John Smith is an expert in medical ethics containing proposition that euthanasia undermines the value of human life\",\n  \"minor premise\": \"Dr. Smith asserts that euthanasia undermines the value of human life\",\n  \"conclusion\": \"Euthanasia undermines the value of human life\"\n}",
+        "label": "yes"
+    },
+    "1558": {
+        "topic": "Immortality",
+        "stance": "in favor",
+        "argumentation scheme": "best explanation",
+        "argument": {
+            "Premise 1": "Human beings have an innate desire for immortality, as evidenced by the existence of afterlife beliefs, religious doctrines, and scientific research on longevity.",
+            "Premise 2": "The concept of immortality is a satisfactory explanation of this desire, as it offers a compelling solution to the problem of death and provides hope for a meaningful and fulfilling existence beyond the limits of our physical bodies.",
+            "Premise 3": "No alternative explanation has been given so far that is as satisfactory as the concept of immortality, as other proposed solutions such as reincarnation or the idea of leaving a legacy still fail to address the fundamental fear of death and its irreversible finality.",
+            "Conclusion": "Therefore, the concept of immortality is plausible as a hypothesis that accounts for the human longing for eternal life and serves as a compelling basis for further exploration and discussion."
+        },
+        "label": "yes"
+    },
+    "20": {
+        "topic": "Euthanasia",
+        "stance": "in favor",
+        "argumentation scheme": "cause to effect",
+        "argument": "{\n 'major premise': 'Generally, if a person is terminally ill and suffering greatly, continued medical treatment may not alleviate their pain or improve their quality of life',\n 'minor premise': 'In this case, a person is terminally ill and suffering greatly',\n 'conclusion': 'Therefore, in this case, allowing euthanasia as an option may alleviate their pain and end their suffering'\n}",
+        "label": "yes"
+    },
+        "479": {
+            "topic": "Animal/human cloning",
+            "stance": "against",
+            "argumentation scheme": "best explanation",
+            "argument": "{\n  \"Premise 1\": \"Animal/human cloning raises ethical concerns about its impact on living beings, including the possibility of physical and mental abnormalities in cloned animals/humans.\", \n  \"Premise 2\": \"The process of cloning involves genetic manipulation, which may have unpredictable effects on the cloned animal/human's health and wellbeing.\", \n  \"Premise 3\": \"No alternative explanation has been put forward that proves that animal/human cloning is completely safe and ethical.\", \n  \"Conclusion\": \"Therefore, the potential harms of animal/human cloning are plausible and should be taken into consideration when deciding whether or not to pursue this technology.\" \n}\n\nIn summary, the argument presented suggests that animal/human cloning involves genetic manipulation, which may have unpredictable health and wellbeing impacts on the cloned animal/human. As no alternative explanation has been put forward that proves the safety and ethics of cloning, the potential harms of cloning have to be taken seriously and considered in decision-making processes related to the development of this technology.",
+            "label": "yes"
+        }
+}
